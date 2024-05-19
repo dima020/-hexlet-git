@@ -1,1 +1,1 @@
-# -hexlet-git
+# hexlet-git
